@@ -1,17 +1,5 @@
-"""
--------------------------------------------------------
-[program description]
--------------------------------------------------------
-Author:  Kush Rabadia Kantilal Nanji 
-ID:      193231170
-Email:   nanj1170@mylaurier.ca
-__updated__ = "2019-09-19"
--------------------------------------------------------
-"""
-
-# Imports
+#imports
 from copy import deepcopy
-
 
 class _SL_Node:
 
