@@ -1,7 +1,6 @@
 # Imports
 from copy import deepcopy
 
-
 class _Deque_Node:
 
     def __init__(self, value, _prev, _next):
