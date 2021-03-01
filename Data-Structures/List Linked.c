@@ -1,11 +1,3 @@
-/*
- * ---------------------------------
- * Student Name: Kush Rabadia Kantilal Nanji
- * Student ID: 1932311270
- * Student Email: nanj1170@mylaurier.ca
- * ---------------------------------
- */
-
 # include <stdio.h>
 # include <stdlib.h>
 # include <assert.h>
