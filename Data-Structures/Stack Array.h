@@ -1,11 +1,3 @@
-/*
- * ---------------------------------
- * Student Name: Kush Rabadia Kantilal Nanji
- * Student ID: 193231170
- * Student Email: nanj1170@mylaurier.ca
- * ---------------------------------
- */
-
 #ifndef STACK_ARRAY_H_
 #define STACK_ARRAY_H_
 
