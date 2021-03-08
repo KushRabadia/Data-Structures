@@ -12,8 +12,8 @@ An <b>algorithm</b> can be defined as a finite sequence of instructions, each of
 * [Queue Circular](Data-Structures/Queue%20Circular.c)
 * [Stack Array](Data-Structures/Stack%20Array.c)
 * [Stack Array.h](Data-Structures/Stack%20Array.h)
-* [Data](Data-Structures/Data.c)
-* [Data.h](Data-Structures/Data.h)
+* [data](Data-Structures/data.c)
+* [data.h](Data-Structures/data.h)
 
 ## Data Structures (Java)
 * [AVL Tree](Data-Structures/AVL%20Tree.java)
