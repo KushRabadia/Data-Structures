@@ -7,7 +7,7 @@ An <b>algorithm</b> can be defined as a finite sequence of instructions, each of
 * [Binary Search](Algorithms/Binary%20Search.c)
 * [Linear Search](Algorithms/Linear%20Search.c)
 
-## ➤ Sorting Algorithms
+## ➤ Sorting Algorithms (C)
 * [Bubble Sort](Algorithms/Bubble%20Sort.c)
 * [Heap Sort](Algorithms/Heap%20Sort.c)
 * [Insertion Sort](Algorithms/Insertion%20Sort.c)
