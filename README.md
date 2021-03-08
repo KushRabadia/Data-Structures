@@ -1,6 +1,20 @@
 # Data-Structures & Algorithms
 An <b>algorithm</b> can be defined as a finite sequence of instructions, each of which has a clear meaning and can be performed with a finite amount of effort in a finite length of time. While a <b>data structure</b> is a way of organizing all data items that considers not only the elements stored but also. their relationship to each other.
 
+## Data Structures (C)
+* [Graph](Data-Structures/Graph.c)
+* [Heap](Data-Structures/Heap.c)
+* [Heap.h](Data-Structures/Heap.h)
+* [List Linked](Data-Structures/List%20Linked.c)
+* [Popularity Tree Linked](Data-Structures/Popularity%20Tree%20Linked.c)
+* [Queue Array](Data-Structures/Queue%20Array.c)
+* [Queue Array.h](Data-Structures/Queue%20Array.h)
+* [Queue Circular](Data-Structures/Queue%20Circular.c)
+* [Stack Array](Data-Structures/Stack%20Array.c)
+* [Stack Array.h](Data-Structures/Stack%20Array.h)
+* [Data](Data-Structures/Data.c)
+* [Data.h](Data-Structures/Data.h)
+
 ## Data Structures (Java)
 * [AVL Tree](Data-Structures/AVL%20Tree.java)
 * [Double Deque](Data-Structures/Double%20Deque.java)
