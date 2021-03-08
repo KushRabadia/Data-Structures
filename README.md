@@ -13,4 +13,4 @@ An <b>algorithm</b> can be defined as a finite sequence of instructions, each of
 * [Insertion Sort](Algorithms/Insertion%20Sort.c)
 * [Merge Sort](Algorithms/Merge%20Sort.c)
 * [Quick Sort](Algorithms/Quick%20Sort.c)
-* [Selection SOrt](Algorithms/Selection%20Sort.c)
+* [Selection Sort](Algorithms/Selection%20Sort.c)
