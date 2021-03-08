@@ -10,3 +10,4 @@ An <b>algorithm</b> can be defined as a finite sequence of instructions, each of
 ## ➤ Table of Contents
 
 * [➤ Data-Structures & Algorithms](#-data-structures--algorithms)
+* [> niandj](Algorithms/Binary Search.c)
