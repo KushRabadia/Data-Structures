@@ -4,7 +4,7 @@ An <b>algorithm</b> can be defined as a finite sequence of instructions, each of
 ## ➤ Data Structures
 
 ## ➤ Searching Algorithms
-#### ➤ C
+C
 * [Binary Search](Algorithms/Binary%20Search.c)
 
 ## ➤ Sorting Algorithms
