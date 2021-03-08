@@ -35,7 +35,7 @@ An <b>algorithm</b> can be defined as a finite sequence of instructions, each of
 * [Linked Deque](Data-Structures/Linked%20Deque.py)
 * [List Array](Data-Structures/List%20Array.py)
 * [List Linked](Data-Structures/List%20Linked.py)
-* [Popularity Tree Linked](Data-Structures/Populaity%20Tree%20Linked.py)
+* [Popularity Tree Linked](Data-Structures/Popularity%20Tree%20Linked.py)
 * [Priority Queue Array](Data-Structures/Priority%20Queue%20Array.py)
 * [Priority Queue Linked](Data-Structures/Priority%20Queue%20Linked.py)
 * [Queue Array](Data-Structures/Queue%20Array.py)
