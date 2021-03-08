@@ -9,8 +9,8 @@ An <b>algorithm</b> can be defined as a finite sequence of instructions, each of
 * [Double Node](Data-Structures/Double%20Node.java)
 * [Double Queue](Data-Structures/Double%20Queue.java)
 * [Double Sorted List](Data-Structures/Double%20Sorted%20List.java)
-* [Popularity Tree](Data-Structures/Popularity%Tree.java)
-* [Tree Node](Data-Structures/Tree%Node.java)
+* [Popularity Tree](Data-Structures/Popularity%20Tree.java)
+* [Tree Node](Data-Structures/Tree%20Node.java)
 
 ## Data Structures (Python)
 
